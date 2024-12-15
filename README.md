@@ -67,10 +67,4 @@ A Streamlit-based application that creates and queries knowledge graphs using na
 - `requirements.txt`: List of Python dependencies
 - `.env`: Configuration file for API keys and credentials
 
-## License
 
-This project is licensed under the MIT License.
-
-## Last Updated
-
-2024-12-15
