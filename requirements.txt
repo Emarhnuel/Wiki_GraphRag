@@ -1,0 +1,15 @@
+streamlit
+python-dotenv
+langchain
+langchain_community
+neo4j
+yfiles-jupyter-graphs
+wikipedia
+tiktoken
+langchain_experimental
+json-repair
+transformers
+torch
+sentence_transformers
+langchain-anthropic
+langchain-huggingface
